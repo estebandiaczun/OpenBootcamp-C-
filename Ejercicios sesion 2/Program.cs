@@ -57,9 +57,9 @@ namespace HelloWorld
 
         Console.WriteLine("a" == "a");
 
-        Console.WriteLine(100 < 150 & 100 > 160);
+        Console.WriteLine(100 < 150 && 100 > 160);
 
-        Console.WriteLine(100 < 150 & 100 > 60);
+        Console.WriteLine(100 < 150 && 100 > 60);
         }
 }
 }
