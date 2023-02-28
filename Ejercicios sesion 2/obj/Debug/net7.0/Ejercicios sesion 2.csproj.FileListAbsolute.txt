@@ -1,0 +1,15 @@
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/obj/Debug/net7.0/Ejercicios sesion 2.csproj.AssemblyReference.cache
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/obj/Debug/net7.0/Ejercicios sesion 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/obj/Debug/net7.0/Ejercicios sesion 2.AssemblyInfoInputs.cache
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/obj/Debug/net7.0/Ejercicios sesion 2.AssemblyInfo.cs
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/obj/Debug/net7.0/Ejercicios sesion 2.csproj.CoreCompileInputs.cache
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/bin/Debug/net7.0/Ejercicios sesion 2
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/bin/Debug/net7.0/Ejercicios sesion 2.deps.json
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/bin/Debug/net7.0/Ejercicios sesion 2.runtimeconfig.json
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/bin/Debug/net7.0/Ejercicios sesion 2.dll
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/bin/Debug/net7.0/Ejercicios sesion 2.pdb
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/obj/Debug/net7.0/Ejercicios sesion 2.dll
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/obj/Debug/net7.0/refint/Ejercicios sesion 2.dll
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/obj/Debug/net7.0/Ejercicios sesion 2.pdb
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/obj/Debug/net7.0/Ejercicios sesion 2.genruntimeconfig.cache
+/home/ediaczun/Escritorio/Practica/OpenBootcamp-C-/Ejercicios sesion 2/obj/Debug/net7.0/ref/Ejercicios sesion 2.dll
