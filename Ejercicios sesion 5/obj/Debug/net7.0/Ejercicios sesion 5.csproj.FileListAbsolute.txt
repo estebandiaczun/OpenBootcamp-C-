@@ -1,0 +1,15 @@
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\bin\Debug\net7.0\Ejercicios sesion 5.exe
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\bin\Debug\net7.0\Ejercicios sesion 5.deps.json
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\bin\Debug\net7.0\Ejercicios sesion 5.runtimeconfig.json
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\bin\Debug\net7.0\Ejercicios sesion 5.dll
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\bin\Debug\net7.0\Ejercicios sesion 5.pdb
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\obj\Debug\net7.0\Ejercicios sesion 5.csproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\obj\Debug\net7.0\Ejercicios sesion 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\obj\Debug\net7.0\Ejercicios sesion 5.AssemblyInfoInputs.cache
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\obj\Debug\net7.0\Ejercicios sesion 5.AssemblyInfo.cs
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\obj\Debug\net7.0\Ejercicios sesion 5.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\obj\Debug\net7.0\Ejercicios sesion 5.dll
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\obj\Debug\net7.0\refint\Ejercicios sesion 5.dll
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\obj\Debug\net7.0\Ejercicios sesion 5.pdb
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\obj\Debug\net7.0\Ejercicios sesion 5.genruntimeconfig.cache
+C:\Users\Esteban\Desktop\Backend\OpenBootcamp-C-\Ejercicios sesion 5\obj\Debug\net7.0\ref\Ejercicios sesion 5.dll
